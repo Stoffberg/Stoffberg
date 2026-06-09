@@ -25,11 +25,7 @@
   The work usually sits where product pressure meets real systems: auth, payments, clinical workflows, onboarding, cloud APIs, internal tools, automation, and releases people actually depend on.
 </p>
 
----
-
-### Focus Areas
-
-<table>
+<table width="100%">
   <tr>
     <td align="center"><strong>Healthcare</strong><br>Clinical evidence<br>Rule evaluation<br>Operational workflows</td>
     <td align="center"><strong>Fintech</strong><br>Onboarding<br>AML and risk<br>Payments</td>
