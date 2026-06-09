@@ -27,9 +27,9 @@
 
 <table width="100%">
   <tr>
-    <td align="center"><strong>Healthcare</strong><br>Clinical evidence<br>Rule evaluation<br>Operational workflows</td>
-    <td align="center"><strong>Fintech</strong><br>Onboarding<br>AML and risk<br>Payments</td>
-    <td align="center"><strong>Cloud Platforms</strong><br>Customer portals<br>APIs<br>Auth and access control</td>
-    <td align="center"><strong>Developer Tools</strong><br>Release tooling<br>E2E automation<br>Local dev workflows</td>
+    <td width="25%" align="center"><strong>Healthcare</strong><br>Clinical evidence, rules, workflows</td>
+    <td width="25%" align="center"><strong>Fintech</strong><br>Onboarding, AML, risk, payments</td>
+    <td width="25%" align="center"><strong>Cloud Platforms</strong><br>Portals, APIs, auth, access control</td>
+    <td width="25%" align="center"><strong>Developer Tools</strong><br>Releases, E2E, local dev workflows</td>
   </tr>
 </table>
