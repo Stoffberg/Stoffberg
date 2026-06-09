@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stoffberg.dev">stoffberg.dev</a>
+  <a href="https://stoff.dev">stoff.dev</a>
   ·
   <a href="https://github.com/Stoffberg?tab=repositories">repositories</a>
 </p>
@@ -34,19 +34,19 @@
 
 ### Selected Work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Shell Over Edge](https://soe.stoff.dev) | Temporary shell and file access through Cloudflare's edge. Start a session with curl, run the generated agent on another machine, then send commands through a UUID endpoint. | TypeScript, Cloudflare Workers, Durable Objects, R2, Hono |
-| [Regress](https://regress.stoff.dev) | Continuous regression detection for web apps: crawl pages, fingerprint DOM structure, classify deploy changes, generate test flows, and run self-healing checks. | TanStack Start, Hono, tRPC, Workers, D1, Queues |
-| [Record](https://github.com/Stoffberg/record) | Privacy-first activity tracker for macOS. Local daemon, SQLite storage, native desktop UI, no cloud account. | Rust, Tauri, Solid.js, SQLite |
-| [Project Zap](https://zap.stoff.dev) | Production-ready full-stack starter with auth, real-time data, UI components, PWA support, and dark mode. | TanStack Start, Convex, WorkOS, shadcn/ui |
-| [shrd.sh](https://github.com/Stoffberg/shrd.sh) | CLI-first content sharing on Cloudflare's edge with expiry, burn-after-reading, and optional end-to-end encryption. | Rust, TypeScript, Workers, Hono, KV, R2, D1 |
-| [CosmosQL](https://cosmosql.dev) | Type-safe, zero-dependency ORM for Azure Cosmos DB with compile-time partition key enforcement. | TypeScript, Azure Cosmos DB, npm |
-| [cdt](https://github.com/Stoffberg/cdt) | One-command Cloudflare tunnel workflow for sharing local PR branches with teammates through a fixed public URL. | Bash, Cloudflare Tunnel |
+| Project | TL;DR |
+| --- | --- |
+| [Shell Over Edge](https://soe.stoff.dev) | Sometimes you need temporary shell access to a machine without opening ports, setting up VPN, or fighting SSH. |
+| [Regress](https://regress.stoff.dev) | Deploys break subtle flows. Catch visual, DOM, and journey regressions before users do. |
+| [Record](https://github.com/Stoffberg/record) | Time tracking should be useful without becoming spyware. Keep activity data local, private, and readable. |
+| [Project Zap](https://zap.stoff.dev) | Starting a serious web app means rebuilding auth, data, UI, and deployment glue. Make that boring part disappear. |
+| [shrd.sh](https://github.com/Stoffberg/shrd.sh) | Sharing files or terminal output should be one command, temporary by default, and private when needed. |
+| [CosmosQL](https://cosmosql.dev) | Cosmos DB makes expensive partition mistakes too easy. Catch them at compile time instead. |
+| [cdt](https://github.com/Stoffberg/cdt) | Teammates need to test local PR branches without waiting for a deploy. Give them a stable URL now. |
 
 ### Writing
 
 I write about building for the web, developer tools, coding agents, workflow design, and keeping systems simpler than they want to become.
 
-- [Posts on stoff.dev](https://stoffberg.dev/blog)
-- [Projects on stoff.dev](https://stoffberg.dev/projects)
+- [Posts on stoff.dev](https://stoff.dev/blog/)
+- [Projects on stoff.dev](https://stoff.dev/projects/)
