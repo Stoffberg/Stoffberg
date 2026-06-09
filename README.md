@@ -22,7 +22,7 @@
 
 <p align="center">
   I have worked with Technology, Healthcare, and Fintech companies across the EU, UK, US, and South Africa.
-  The work usually sits where product pressure meets real systems: auth, payments, clinical workflows, onboarding, cloud APIs, internal tools, automation, and releases people actually depend on.
+  That usually means clinical evidence and rules, merchant onboarding and risk, customer portals, access control, cloud integrations, CI, releases, and the internal tooling around it.
 </p>
 
 <table width="100%">
