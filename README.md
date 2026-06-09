@@ -1,7 +1,7 @@
 <h1 align="center">Dirk Beukes</h1>
 
 <p align="center">
-  <strong>Full-stack engineer building products, developer tools, edge infrastructure, and local-first software.</strong>
+  <strong>Full-stack engineer building regulated product systems, cloud platforms, developer tools, and local-first software.</strong>
 </p>
 
 <p align="center">
@@ -12,22 +12,25 @@
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=dotnet&logoColor=8A2BE2">
+  <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=F97316">
   <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020">
-  <img alt="Bun" src="https://img.shields.io/badge/Bun-111827?style=for-the-badge&logo=bun&logoColor=FBF0DF">
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-111827?style=for-the-badge&logo=icloud&logoColor=60A5FA">
 </p>
 
 <p align="center">
   I have worked with Technology, Healthcare, and Fintech companies across the EU, UK, US, and South Africa.
-  The work usually sits where product pressure meets real systems: auth, payments, APIs, internal tools, automation, and workflows people actually depend on.
+  The work usually sits where product pressure meets real systems: auth, payments, clinical workflows, onboarding, cloud APIs, internal tools, automation, and releases people actually depend on.
 </p>
 
 ---
 
 ### What I Do
 
-- Product engineering across the stack: web apps, APIs, dashboards, auth, billing, and operational workflows.
-- Developer tooling that removes daily friction: CLIs, local dev tunnels, workspace automation, and sharper agent workflows.
-- Edge-native systems on Cloudflare Workers, Durable Objects, R2, D1, Queues, Hono, and TypeScript.
-- Local-first desktop and macOS tools with Rust, Tauri, SQLite, and small native services.
+- Build product workflows for healthcare, fintech, and cloud platforms with clear, maintainable code.
+- Work on clinical evidence, rule evaluation, onboarding, AML/risk checks, customer portals, billing, auth, and access control.
+- Ship across React, TypeScript, .NET, Java, Python, Rust, PostgreSQL, MongoDB, Cosmos DB, AWS, Azure, and Cloudflare.
+- Make teams faster with release tooling, E2E automation, quality gates, local dev tunnels, CLIs, and coding-agent workflows.
+- Build personal tools around edge infrastructure, encrypted sharing, regression testing, activity tracking, and local-first desktop apps.
