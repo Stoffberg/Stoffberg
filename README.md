@@ -27,10 +27,13 @@
 
 ---
 
-### What I Do
+### Focus Areas
 
-- Build product workflows for healthcare, fintech, and cloud platforms with clear, maintainable code.
-- Work on clinical evidence, rule evaluation, onboarding, AML/risk checks, customer portals, billing, auth, and access control.
-- Ship across React, TypeScript, .NET, Java, Python, Rust, PostgreSQL, MongoDB, Cosmos DB, AWS, Azure, and Cloudflare.
-- Make teams faster with release tooling, E2E automation, quality gates, local dev tunnels, CLIs, and coding-agent workflows.
-- Build personal tools around edge infrastructure, encrypted sharing, regression testing, activity tracking, and local-first desktop apps.
+<table>
+  <tr>
+    <td align="center"><strong>Healthcare</strong><br>Clinical evidence<br>Rule evaluation<br>Operational workflows</td>
+    <td align="center"><strong>Fintech</strong><br>Onboarding<br>AML and risk<br>Payments</td>
+    <td align="center"><strong>Cloud Platforms</strong><br>Customer portals<br>APIs<br>Auth and access control</td>
+    <td align="center"><strong>Developer Tools</strong><br>Release tooling<br>E2E automation<br>Local dev workflows</td>
+  </tr>
+</table>
