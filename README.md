@@ -1,7 +1,7 @@
 <h1 align="center">Dirk Beukes</h1>
 
 <p align="center">
-  <strong>Full-stack engineer building fast tools, edge apps, and practical developer workflows.</strong>
+  <strong>Full-stack engineer building products, developer tools, edge infrastructure, and local-first software.</strong>
 </p>
 
 <p align="center">
@@ -19,29 +19,34 @@
 </p>
 
 <p align="center">
-  I like software that is small enough to understand, fast enough to forget about, and useful enough to become muscle memory.
+  I have worked with Technology, Healthcare, and Fintech companies across the EU, UK, US, and South Africa.
+  The work usually sits where product pressure meets real systems: auth, payments, APIs, internal tools, automation, and workflows people actually depend on.
 </p>
 
 ---
 
-### What I Build
+### What I Do
 
-- Edge-native tools on Cloudflare Workers, R2, Hono, and TypeScript.
-- CLI-first workflows that turn annoying manual steps into one command.
-- Desktop and macOS tools for focused daily work.
-- Full-stack starters that ship with real auth, data, UI, and deployment paths.
+- Product engineering across the stack: web apps, APIs, dashboards, auth, billing, and operational workflows.
+- Developer tooling that removes daily friction: CLIs, local dev tunnels, workspace automation, and sharper agent workflows.
+- Edge-native systems on Cloudflare Workers, Durable Objects, R2, D1, Queues, Hono, and TypeScript.
+- Local-first desktop and macOS tools with Rust, Tauri, SQLite, and small native services.
 
 ### Selected Work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [shell-over-edge](https://github.com/Stoffberg/shell-over-edge) | Temporary shell and file access through Cloudflare Workers. | TypeScript, Hono, R2, Cloudflare |
-| [shrd.sh](https://github.com/Stoffberg/shrd.sh) | CLI-first content sharing on Cloudflare's edge. | TypeScript, Rust, Workers |
-| [project-zap](https://github.com/Stoffberg/project-zap) | Modern full-stack starter with auth, data, UI, and deployment sorted. | TanStack Start, Convex, WorkOS, shadcn/ui |
-| [better-teams](https://github.com/Stoffberg/better-teams) | Calmer Microsoft Teams desktop app with a focused custom UI. | Electron, React, TypeScript |
-| [record](https://github.com/Stoffberg/record) | Privacy-first activity tracker for macOS. | Rust, macOS |
-| [cosmosql](https://github.com/Stoffberg/cosmosql) | Type-safe, zero-dependency library for Azure Cosmos DB. | TypeScript, Cosmos DB |
+| [Shell Over Edge](https://soe.stoff.dev) | Temporary shell and file access through Cloudflare's edge. Start a session with curl, run the generated agent on another machine, then send commands through a UUID endpoint. | TypeScript, Cloudflare Workers, Durable Objects, R2, Hono |
+| [Regress](https://regress.stoff.dev) | Continuous regression detection for web apps: crawl pages, fingerprint DOM structure, classify deploy changes, generate test flows, and run self-healing checks. | TanStack Start, Hono, tRPC, Workers, D1, Queues |
+| [Record](https://github.com/Stoffberg/record) | Privacy-first activity tracker for macOS. Local daemon, SQLite storage, native desktop UI, no cloud account. | Rust, Tauri, Solid.js, SQLite |
+| [Project Zap](https://zap.stoff.dev) | Production-ready full-stack starter with auth, real-time data, UI components, PWA support, and dark mode. | TanStack Start, Convex, WorkOS, shadcn/ui |
+| [shrd.sh](https://github.com/Stoffberg/shrd.sh) | CLI-first content sharing on Cloudflare's edge with expiry, burn-after-reading, and optional end-to-end encryption. | Rust, TypeScript, Workers, Hono, KV, R2, D1 |
+| [CosmosQL](https://cosmosql.dev) | Type-safe, zero-dependency ORM for Azure Cosmos DB with compile-time partition key enforcement. | TypeScript, Azure Cosmos DB, npm |
+| [cdt](https://github.com/Stoffberg/cdt) | One-command Cloudflare tunnel workflow for sharing local PR branches with teammates through a fixed public URL. | Bash, Cloudflare Tunnel |
 
-### Current Focus
+### Writing
 
-Building tiny tools that punch above their weight: local-first workflows, edge infrastructure, developer UX, and product prototypes that get to the point.
+I write about building for the web, developer tools, coding agents, workflow design, and keeping systems simpler than they want to become.
+
+- [Posts on stoff.dev](https://stoffberg.dev/blog)
+- [Projects on stoff.dev](https://stoffberg.dev/projects)
